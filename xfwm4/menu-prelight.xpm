@@ -2,8 +2,8 @@
 static char * menu_prelight_xpm[] = {
 "34 28 3 1",
 " 	c None",
-".	c #EDECEB s active_color_2",
-"+	c #000000",
+".	c #0d1829",
+"+	c #ffffff",
 "                                  ",
 "                                  ",
 "                                  ",
