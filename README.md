@@ -5,11 +5,11 @@ trend seems to be an exaggerated form of minimalism that make it very hard to
 see where one window ends and the next one starts. Borders are hard to see.
 Everything blends together into a beautiful, confusing rectangle of sameness.
 
-*What Comes Around (Goes Around)* is a XFCE 4 theme with distinct borders and
-that looks good to my eyes.
+*What Comes Around (Goes Around)* is a XFCE 4 theme that has distinct borders
+and matches my tastes in general.
 
 *What Comes Around (Goes Around)* is based on the quite nice [*OneColor XFCE*
-theme by novomonte](https://www.xfce-look.org/p/1148918/) (that's why it is
+theme by novomente](https://www.xfce-look.org/p/1148918/) (that's why it is
 licensed under the GNU GPL, which I think is an odd license for a theme).
 
 ## Colors
