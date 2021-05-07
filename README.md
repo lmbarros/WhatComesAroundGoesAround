@@ -8,9 +8,15 @@ Everything blends together into a beautiful, confusing rectangle of sameness.
 *What Comes Around (Goes Around)* is a XFCE 4 theme that has distinct borders
 and matches my tastes in general.
 
+![Screenshot of "What Comes Around (Goes Around)"](screenshot.png)
+
 *What Comes Around (Goes Around)* is based on the quite nice [*OneColor XFCE*
 theme by novomente](https://www.xfce-look.org/p/1148918/) (that's why it is
 licensed under the GNU GPL, which I think is an odd license for a theme).
+
+## How do I install it?
+
+[RTFM](https://wiki.xfce.org/howto/install_new_themes).
 
 ## Colors
 
